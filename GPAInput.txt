@@ -1,0 +1,10 @@
+3
+Algebra
+4
+A
+Biology
+3
+B
+Chemistry
+2
+C
